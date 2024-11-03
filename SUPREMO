@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUPREMO - Café, Chocolate y Mole</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background: #3e2723;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SUPREMO</h1>
+        <p>Calidad en Café, Chocolate y Mole</p>
+    </header>
+
+    <section>
+        <h2>Sobre Nosotros</h2>
+        <p>Ubicados en León, Guanajuato y Santiago de Querétaro, en SUPREMO nos dedicamos a la fabricación de productos artesanales de la mejor calidad.</p>
+    </section>
+
+    <section>
+        <h2>Nuestros Productos</h2>
+        <ul>
+            <li>Café artesanal</li>
+            <li>Chocolate artesanal</li>
+            <li>Mole en polvo</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Calidad Garantizada</h2>
+        <p>Todos nuestros productos están elaborados con los mejores ingredientes, garantizando un sabor único y auténtico.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 SUPREMO. Todos los derechos reservados.</p>
+        <p>Contacta con nosotros: info@supremo.com</p>
+    </footer>
+</body>
+</html>
